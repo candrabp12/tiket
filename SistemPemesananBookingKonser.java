@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class i {
+public class SistemPemesananBookingKonser {
 
     // Menggunakan ArrayList untuk daftar konser
     static ArrayList<String> concertNames = new ArrayList<>();
